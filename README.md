@@ -2,6 +2,8 @@
 
 This project is a demo of eCharts in Angular 7  
 
+![Angular eCharts Demo Screenshot](docs/angular-echarts-social.png)
+
 Live demo  
 https://timothyr.github.io/angular-echarts/
 
